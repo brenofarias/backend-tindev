@@ -1,0 +1,15 @@
+{
+  "name": "backend-tindev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/brenofarias/backend-tindev.git",
+  "author": "Breno Farias Sousa <brenosousa.farias@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
